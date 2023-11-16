@@ -1,0 +1,19 @@
+{
+  "name": "scales-frontend",
+  "version": "1.0.0",
+  "description": "the frontend for scales",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Scales-Development/Scales-Frontend.git"
+  },
+  "author": "catdontpat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Scales-Development/Scales-Frontend/issues"
+  },
+  "homepage": "https://github.com/Scales-Development/Scales-Frontend#readme"
+}
